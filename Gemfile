@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'activesupport'
+gem 'allure-rspec'
+gem 'bdd'
+gem 'colorize'
+gem 'rspec'
+gem 'require_all'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'chromedriver-helper'
